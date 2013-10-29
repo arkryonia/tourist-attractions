@@ -1,0 +1,13 @@
+PrivacyPolicy-URL: http://www.nokia.com/global/privacy/privacy/policy/privacy-policy/
+MIDlet-Jar-Size: 1024361
+MIDlet-1: Tourist Attractions,/appicon.png,com.nokia.example.attractions.Main
+MIDlet-Jar-URL: TouristAttractions.jar
+Nokia-MIDlet-Category: Application
+MicroEdition-Configuration: CLDC-1.1
+Nokia-Scalable-Icon-MIDlet-1: /appicon.svg
+MIDlet-Version: 1.6
+MIDlet-Vendor: Nokia
+MIDlet-Name: Tourist Attractions
+MIDlet-Data-Size: 200000
+MIDlet-Permissions: javax.microedition.location.Location, javax.microedition.io.Connector.http, javax.microedition.io.Connector.https
+MicroEdition-Profile: MIDP-2.0

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<guide city="Tampere" country="FI" latitude="61.497844" longitude="23.75963" urlPrefix="http://fniapexamples.blob.core.windows.net/touristattractions/">
+  <attractions>
+    <attraction id="1" name="Kaleva Church" thumbnailUrl="Kaleva_church_tn.png" type="violet">  
+      <location>
+        <street>Liisanpuisto 1</street>
+        <latitude>61.499113</latitude>
+        <longitude>23.794005</longitude>
+      </location>
+      <imageUrl>Kaleva_church.jpg</imageUrl>
+      <description>Solid concrete modernist church designed by famous architect Reima Pietilä in 1966. Locals call it "The Grain Silo of Souls" (Sielujen siilo) and from the outside it's not hard to see why, but the stark interior is quite awe-inspiring: very high and big room without pillars, minimalist interior made of bright wood. Some Sundays, community members guide onto the roof, which offers a good view over Tampere, and let one have a nice view from the top into the church room.</description>
+    </attraction>
+    <attraction id="2" name="Tampere Cathedral" thumbnailUrl="Tampere_cathedral_tn.png" type="violet">  
+      <location>
+        <street>Tuomiokirkonkatu 3A</street>
+        <latitude>61.50242</latitude>
+        <longitude>23.769608</longitude>
+      </location>
+      <imageUrl>Tampere_cathedral.jpg</imageUrl>
+      <description>Imposing church in the National Romantic style, designed by architect Lars Sonck and completed in 1907. The interior has a series of famously macabre frescos by Hugo Simberg, including The Wounded Angel (once voted Finland's "national painting") and the Garden of Death.</description>
+    </attraction>
+    <attraction id="3" name="Särkänniemi" thumbnailUrl="Sarkanniemi_tn.png" type="orange">  
+      <location>
+        <street>Laiturikatu 1</street>
+        <latitude>61.503802</latitude>
+        <longitude>23.742485</longitude>
+      </location>
+      <imageUrl>Sarkanniemi.jpg</imageUrl>
+      <description>Theme park between May and Sept, art museum and restaurant throughout the year. Includes a dolphinarium and the landmark Näsinneula tower, topped by the inevitable revolving restaurant. On a summer day the views of the surrounding forests and lakes are quite nice though. Entrance €6, single ride ticket €5, day pass €29 (includes entrance).</description>
+    </attraction>
+    <attraction id="4" name="Näsinneula" thumbnailUrl="Nasinneula_observation_tower_tn.png" type="orange">  
+      <location>
+        <street>Särkänniemi</street>
+        <latitude>61.50501</latitude>
+        <longitude>23.743129</longitude>
+      </location>
+      <imageUrl>Nasinneula_observation_tower.jpg</imageUrl>
+      <description>An observation tower overseeing Lake Näsijärvi. It was built in 1970–1971 and was designed by Pekka Ilveskoski. It is the tallest free-standing structure in Finland and the tallest observation tower in the Nordic countries at a height of 168 metres (551 ft). The tower opened in 1971 and is located in the Särkänniemi amusement park. There is a revolving restaurant in the tower 124 metres (407 ft) above the ground; one revolution takes 45 minutes. 
+The base of the tower is at about 15 metres (49 ft) of elevation from lake Näsijärvi. The elevator ride to the top takes 27 seconds with a maximum speed of 6 m/s (20 ft/s) and the elevators carry a maximum of 16 people. The elevators are still the fastest public elevators in Finland. In the event of a blackout, the tower's own diesel emergency generator will start. In an emergency people can be evacuated with stairs that have 700 steps.</description>
+    </attraction>
+    <attraction id="5" name="Pyynikki" thumbnailUrl="Pyynikki_observation_tower_tn.png" type="orange">  
+      <location>
+        <street>Näkötornintie 20</street>
+        <latitude>61.496287</latitude>
+        <longitude>23.731971</longitude>
+      </location>
+      <imageUrl>Pyynikki_observation_tower.jpg</imageUrl>
+      <description>This current tower was designed by architect Vilho Kolho and built using local red granite. The 26-meter tower stands 152 meters above sea level on the Pyynikki ridge crest. The top can be reached by a lift, but walking up the stairs offers various observation windows. The open top offers a clear view of the city of Tampere as well as Lake Näsijärvi on the north and Lake Pyhäjärvi in the south.
+Entrance to the park and cafe is free but climbing the tower costs 50 cents for children or 2 euros for adults. The Cafe has its own historic donut recipe which has remained unchanged for 80 years.
+Pyynikki is Tampere's official destination for motorcyclist tourists, other areas of the city may not be so welcoming. Tuesday especially is dedicated to motorcyclists.</description>
+    </attraction>
+    <attraction id="6" name="Tampere City Library" thumbnailUrl="Tampere_city_library_tn.png" type="pink">  
+      <location>
+        <street>Pirkankatu 2</street>
+        <latitude>61.497792</latitude>
+        <longitude>23.751218</longitude>
+      </location>
+      <imageUrl>Tampere_city_library.jpg</imageUrl>
+      <description>In 1978 a competition was arranged for the design of a new main library. The jury unanimously chose the design by Raili and Reima Pietilä. The architects said they had been influenced by various elements, such as Celtic ornaments, sheep horns and glacial spin formations. The basic idea was a space coiling spirally like the shell of a snail. The form of a bird appeared in the design process. Increasingly, the building began to resemble a large game bird, the capercaillie, known in Finnish as metso — now the building's nickname. Seen from above, the building looks like a bird carrying a shield. Houses the Moominvalley exhibition and the Mineral Museum. Open from Monday to Friday 9:30AM-8 PM, Saturday 9:30 AM-3 PM.</description>
+    </attraction>
+    <attraction id="7" name="Tammerkoski" thumbnailUrl="Tammerkoski_tn.png" type="pink">  
+      <location>
+        <street>Hämeenkatu</street>
+        <latitude>61.497966</latitude>
+        <longitude>23.763701</longitude>
+      </location>
+      <imageUrl>Tammerkoski.jpg</imageUrl>
+      <description>Tampere was founded as a market place on the banks of the Tammerkoski channel in 1775 by Gustav III of Sweden and four years later, 1 October 1779, Tampere was granted full city rights. At this time, it was a rather small town, consisting of only a few square kilometres of land around the Tammerkoski.
+Tampere grew as a major market town and industrial centre in the 19th century. During the latter half of 19th century Tampere had almost half of Finland's industrial labour. The town's industrial nature in the 19th and 20th centuries gave it the nickname "Manchester of the North", Manse for short (in Finnish).</description>
+    </attraction>
+    <attraction id="8" name="Market Hall" thumbnailUrl="Tampere_market_hall_tn.png" type="pink">  
+      <location>
+        <street>Hämeenkatu 19</street>
+        <latitude>61.497462</latitude>
+        <longitude>23.758702</longitude>
+      </location>
+      <imageUrl>Tampere_market_hall.jpg</imageUrl>
+      <description>Fresh food and other shopping in a historical market hall built in 1901. It is said to be the second biggest market hall in the world.</description>
+    </attraction>
+  </attractions>
+</guide>
