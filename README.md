@@ -78,7 +78,7 @@ prevent excess power consumption.
 4. Compatibility
 -------------------------------------------------------------------------------
 
-Nokia Asha software platform 1.0 and Series 40 6th Edition or newer touch
+Nokia Asha software platform 1.0 or later and Series 40 6th Edition or newer touch
 phones.
 
 Tested to work on Nokia Asha 501, Nokia Asha 311, Nokia Asha 308,
