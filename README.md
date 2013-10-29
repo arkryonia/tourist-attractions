@@ -43,6 +43,7 @@ prevent excess power consumption.
 
 3.1 Folders
 -----------
+
 | Folder | Description |
 | root | The root folder contains the project file, resource files, the license information and this README file. |
 | nbproject | Contains NetBeans project files. |
@@ -56,18 +57,10 @@ prevent excess power consumption.
 -------------------------------
 
 | File                           | Description                                |
-|--------------------------------|--------------------------------------------|
 | src\..\ViewMaster.java         | The main views use ViewMaster canvas.      |
-|--------------------------------|--------------------------------------------|
-| src\..\LocationFinder.java     | Wraps Location API so that it is not       |
-|                                | necessary to run the application.          |
-|--------------------------------|--------------------------------------------|
-| src\..\TouristMap.java         | Implementation for HERE Maps API for Java  |
-|                                | ME.                                        |
-|--------------------------------|--------------------------------------------|
-| src\..\Network.java            | Network component handles all connections  |
-|                                | to the internet.                           |
-|-----------------------------------------------------------------------------|
+| src\..\LocationFinder.java     | Wraps Location API so that it is not necessary to run the application. |
+| src\..\TouristMap.java         | Implementation for HERE Maps API for Java ME. |
+| src\..\Network.java            | Network component handles all connections to the internet.|
 
 3.3 Used APIs
 -------------
@@ -134,7 +127,7 @@ via Nokia Suite or over Bluetooth.
 
 See the license text file delivered with this project. The license file is also
 available online at
-http://projects.developer.nokia.com/JMETouristAttractions/browser/LICENSE.TXT
+https://github.com/nokia-developer/tourist-attractions/blob/master/LICENCE.TXT
 
 
 7. Related documentation
