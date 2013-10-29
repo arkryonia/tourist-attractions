@@ -45,10 +45,11 @@ prevent excess power consumption.
 -----------
 
 | Folder | Description |
+| ----- | ----------- |
 | root | The root folder contains the project file, resource files, the license information and this README file. |
 | nbproject | Contains NetBeans project files. |
 | res | Contains application graphics. |
-| res/guides | Contains the default guides. |
+| res\guides | Contains the default guides. |
 | src | Contains the Java source code files. |
 | web_guides | Contains guides that are on the web server. |  
 
@@ -56,11 +57,12 @@ prevent excess power consumption.
 3.2 Important files and classes
 -------------------------------
 
-| File                           | Description                                |
-| src\..\ViewMaster.java         | The main views use ViewMaster canvas.      |
-| src\..\LocationFinder.java     | Wraps Location API so that it is not necessary to run the application. |
-| src\..\TouristMap.java         | Implementation for HERE Maps API for Java ME. |
-| src\..\Network.java            | Network component handles all connections to the internet.|
+| File | Description |
+| ----- | ----------- |
+| src\..\ViewMaster.java | The main views use ViewMaster canvas. |
+| src\..\LocationFinder.java | Wraps Location API so that it is not necessary to run the application. |
+| src\..\TouristMap.java | Implementation for HERE Maps API for Java ME. |
+| src\..\Network.java | Network component handles all connections to the internet. |
 
 3.3 Used APIs
 -------------
